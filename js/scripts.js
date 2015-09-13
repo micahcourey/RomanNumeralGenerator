@@ -17,7 +17,7 @@ var romanNumeral = function(number) {
 };
 
 $(document).ready(function() {
-  $("form#countupby").submit(function(event) {
+  $("form#roman").submit(function(event) {
     var number = parseInt($("input#number").val());
     var roman = romanNumeral(number);
 
