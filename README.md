@@ -11,7 +11,7 @@ _A web app that allows a user to enter a number and the app converts there numbe
 ## Setup
 
 * _Clone Repository from GitHub._
-* _Open the triangle_tracker.html file in your web browser_
+* _Open the roman_numeral.html file in your web browser_
 
 ## Technologies Used
 
