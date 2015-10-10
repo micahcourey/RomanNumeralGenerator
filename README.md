@@ -6,7 +6,7 @@
 
 ## Description
 
-_A web app that allows a user to enter a number and the app converts there number into Roman Numeral form_
+_A web app that allows a user to enter a number and the app converts there number into Roman Numeral form. Check it out at: http://micahcourey.github.io/RomanNumeralGenerator_
 
 ## Setup
 
